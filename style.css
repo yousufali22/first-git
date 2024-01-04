@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: brown;
+    border-bottom: 10px solid red;
+}
+.table{
+    background-color: antiquewhite;
+    height: 300px;
+    width: 200px;
+    color: red
+}
+form{
+    background-color: beige;
+    padding: 20px;
+   color: black;
+   text-align: center;
+   height: 200px;
+   margin: 100px;
+}
+.login{
+    background-color: darkblue;
+    color: white;
+}
+.creat{
+    background-color: rgb(29, 189, 29);
+    color: white;
+}
+h2{
+    color: greenyellow;
+}
